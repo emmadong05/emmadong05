@@ -16,7 +16,7 @@ My projects include:
 - [**Kitty Klicker**](https://github.com/emmadong05/KittyKlicker): A rhythm-based Java Swing game designed to help children with cerebral palsy improve fine motor skills and coordination through interactive graphics and music.  
 - [**Delta: Competitive Reeling**](https://github.com/emmadong05/competitive-reeling): A Chrome extension that curbs short-form media addiction by analyzing reels with a Vision LLM and kNN keyword scoring, syncing results to a gamified web dashboard.  
 
-Beyond software, my academic and research interests include algorithms, computer systems, fairness in machine learning, and game development.  
+Beyond software, my academic and research interests include novel algorithms, computer systems, and game development.  
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emmad6688).  
 
