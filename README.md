@@ -13,8 +13,8 @@ Hi, I'm Emma — a Computer Science student at Carnegie Mellon University.
 I've worked as a **Fullstack Android Engineer** at [Silo Markets](https://www.silomarkets.com/), where I developed a trading platform with user onboarding, portfolio analytics, and bond/stock trading features.  
 
 My projects include:  
-- 🎮 [**Kitty Klicker**](https://github.com/emmadong05/KittyKlicker): A rhythm-based Java Swing game designed to help children with cerebral palsy improve fine motor skills and coordination through interactive graphics and music.  
-- 🌀 [**Delta: Competitive Reeling**](https://github.com/emmadong05/competitive-reeling): A Chrome extension that curbs short-form media addiction by analyzing reels with a Vision LLM and kNN keyword scoring, syncing results to a gamified web dashboard.  
+- [**Kitty Klicker**](https://github.com/emmadong05/KittyKlicker): A rhythm-based Java Swing game designed to help children with cerebral palsy improve fine motor skills and coordination through interactive graphics and music.  
+- [**Delta: Competitive Reeling**](https://github.com/emmadong05/competitive-reeling): A Chrome extension that curbs short-form media addiction by analyzing reels with a Vision LLM and kNN keyword scoring, syncing results to a gamified web dashboard.  
 
 Beyond software, my academic and research interests include algorithms, computer systems, fairness in machine learning, and game development.  
 
