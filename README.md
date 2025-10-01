@@ -1,11 +1,11 @@
-<h1 
-  align="center" style="color:#C41230;">Emma Dong
-</h1>
+<p align="center">
+  <img src="./assets/images/name.svg" alt="Emma Dong" width="60%"/>
+</p>
+
 
 
 <p align="center">
-  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&duration=2500&pause=1000&color=C41230&center=true&vCenter=true&width=435&lines=scs+%40+carnegie+mellon+university;prev.+swe+%40+silo+markets" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=C41230&center=true&vCenter=true&width=435&lines=scs+%40+carnegie+mellon+university;prev.+swe+%40+silo+markets" alt="Typing SVG" /></a></p>
 
 ### About Me
 Hi, I'm Emma — a Computer Science student at Carnegie Mellon University.  
