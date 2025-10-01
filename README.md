@@ -8,18 +8,15 @@
 </p>
 
 ### About Me
-Hi, I'm [FILL NAME HERE], a [FILL ROLE / STUDENT INFO HERE].
+Hi, I'm Emma — a Computer Science student at Carnegie Mellon University.  
 
-At [FILL AGE / YEAR], I [FILL EXPERIENCE OR PROJECT].
+I've worked as a **Fullstack Android Engineer** at [Silo Markets](https://www.silomarkets.com/), where I developed a trading platform with user onboarding, portfolio analytics, and bond/stock trading features.  
 
-My current software and research interests include [FILL INTERESTS HERE].
+My projects include:  
+- 🎮 [**Kitty Klicker**](https://github.com/emmadong05/KittyKlicker): A rhythm-based Java Swing game designed to help children with cerebral palsy improve fine motor skills and coordination through interactive graphics and music.  
+- 🌀 [**Delta: Competitive Reeling**](https://github.com/emmadong05/competitive-reeling): A Chrome extension that curbs short-form media addiction by analyzing reels with a Vision LLM and kNN keyword scoring, syncing results to a gamified web dashboard.  
 
-Feel free to reach out, I'm always open to connecting :)
+Beyond software, my academic and research interests include algorithms, computer systems, fairness in machine learning, and game development.  
 
-<br/>
-  
-<img align="left" src="./assets/images/discord.png" width="50px" /> <pre>[FILL DISCORD HANDLE HERE]</pre>
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emmad6688).  
 
-<img align="left" src="./assets/images/scs.png" width="50px" /> <pre>[FILL EMAIL OR CONTACT HERE]</pre>
-
-![FILL NAME HERE](./assets/images/wave.svg)
