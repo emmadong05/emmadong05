@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&duration=2500&pause=1000&color=C41230&center=true&vCenter=true&width=435&lines=scs+%40+carnegie+mellon+university;prev.+swe+%40+silo+markets" alt="Typing SVG" /></a>
+  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&duration=2500&pause=1000&color=C41230&center=true&vCenter=true&width=435&lines=scs+%40+carnegie+mellon+university;prev.+swe+%40+silo+markets" alt="Typing SVG" /></a>
 </p>
 
 ### About Me
